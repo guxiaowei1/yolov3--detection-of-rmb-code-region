@@ -1,28 +1,4 @@
-<table style="width:100%">
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/26833433/56132958-9e279d80-5f8b-11e9-8d23-c34dbb2a39e6.jpg">
-    </td>
-    <td align="center">
-    <a href="https://www.ultralytics.com" target="_blank">
-    <img src="https://storage.googleapis.com/ultralytics/logo/logoname1000.png" width="200"></a>
-    <a href="https://itunes.apple.com/app/id1452689527" target="_blank">
-    <img src="https://user-images.githubusercontent.com/26833433/50044365-9b22ac00-0082-11e9-862f-e77aee7aa7b0.png" width="180"></a>
-      <img src="https://user-images.githubusercontent.com/26833433/56132957-9d8f0700-5f8b-11e9-9067-0d91364c57c0.jpg">
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/26833433/56132991-b0094080-5f8b-11e9-89a1-62fb65b98d45.jpg">
-    </td>
-  </tr>
-</table>
 
-# Introduction
-
-This directory contains python software and an iOS App developed by Ultralytics LLC, and **is freely available for redistribution under the GPL-3.0 license**. For more information please visit https://www.ultralytics.com.
-
-# Description
-
-The https://github.com/ultralytics/yolov3 repo contains inference and training code for YOLOv3 in PyTorch. The code works on Linux, MacOS and Windows. Training is done on the COCO dataset by default: https://cocodataset.org/#home. **Credit to Joseph Redmon for YOLO:** https://pjreddie.com/darknet/yolo/.
 
 # Requirements
 
