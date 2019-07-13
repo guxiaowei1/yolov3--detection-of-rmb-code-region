@@ -1,0 +1,6 @@
+classes=80
+train=1.txt
+valid=Moneytest.txt
+names=data/coco.names
+backup=backup/
+eval=coco
